@@ -1,3 +1,5 @@
+package dataStructure;
+
 import java.util.Arrays;
 
 /*** 自定义顺序存储线性表，使用数组实现
